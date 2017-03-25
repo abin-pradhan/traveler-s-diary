@@ -1,0 +1,28 @@
+body
+{
+	background:url(../traveller.jpg);
+	background-size:cover;	
+}
+.userinteraction
+{
+	margin:auto;
+	width:30%;
+	background-color:brown;
+	border:10px solid blue;
+	padding:15px;
+}
+a
+{
+	text-decoration:none;
+	font-size:18px;
+}
+a:hover
+{
+	color:white;
+	font-size:20px;
+}
+.error
+{
+	color:white;
+	font-size:20px;
+}

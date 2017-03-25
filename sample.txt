@@ -1,0 +1,13 @@
+<html>
+<head>
+	<title>Traveler's Diaries</title>
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<div class="userinteraction">
+		<h2></h2>
+		<h3></h3>
+		
+	</div>
+</body>
+</html>
